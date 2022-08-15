@@ -1,9 +1,9 @@
-﻿namespace MyVitals.API.Interfaces
+﻿namespace MyVitals.API.Interfaces.Persistence
 {
     public interface IUnit
     {
         int Id { get; set; }
         string Name { get; set; }
-        string Abbrebiature { get; set; }
+        string Symbol { get; set; }
     }
 }

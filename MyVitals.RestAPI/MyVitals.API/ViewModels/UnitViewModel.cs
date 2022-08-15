@@ -1,9 +1,9 @@
 ﻿using Mapster;
 using MyVitals.API.Interfaces.Persistence;
 
-namespace MyVitals.API.Entities
+namespace MyVitals.API.ViewModels
 {
-    public class Unit: IUnit, IIsActivable
+    public class UnitViewModel: IUnit, IIsActivable
     {
         [UseDestinationValue]
         public int Id { get; set; }

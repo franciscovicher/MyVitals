@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyVitals.API", "MyVitals.API\MyVitals.API.csproj", "{B5D136E9-72D2-4C6D-AC7F-32B00083F95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D136E9-72D2-4C6D-AC7F-32B00083F95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D136E9-72D2-4C6D-AC7F-32B00083F95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D136E9-72D2-4C6D-AC7F-32B00083F95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D136E9-72D2-4C6D-AC7F-32B00083F95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB646C0-6BC4-408B-A73C-09383C8990E0}
+	EndGlobalSection
+EndGlobal

@@ -1,4 +1,5 @@
 ﻿using MyVitals.API.Interfaces;
+using MyVitals.API.Interfaces.Persistence;
 
 namespace MyVitals.API.Entities
 {
